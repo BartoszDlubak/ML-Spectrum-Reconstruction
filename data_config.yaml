@@ -1,0 +1,6 @@
+
+# Quality of data
+quality:
+  noise_level: 0.1
+  missing_level: 0.35
+
